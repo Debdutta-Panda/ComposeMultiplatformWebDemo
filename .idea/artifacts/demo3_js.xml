@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="demo3-js">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="demo3-js.jar">
+      <element id="module-output" name="demo3.jsMain" />
+    </root>
+  </artifact>
+</component>
